@@ -108,12 +108,12 @@ img {
     font-family: Poppins;
 }
 .code {
-    color: #303841;
+    color: #1d3147;
     transition: color 0.3s ease-out;
 }
 .project-title:hover .code {
     animation-name: html;
-    color: #ff7f50;
+    color: #ce0c0c;
 }
 .contact {
     height: 40vh;
